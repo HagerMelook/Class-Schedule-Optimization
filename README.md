@@ -1,4 +1,4 @@
-# -Class-Schedule-Optimization
+# Class-Schedule-Optimization
 
 Imagine a school with multiple classes and subject timings where certain classes 
 cannot occur simultaneously due to shared resources or teacher availability. Develop 
