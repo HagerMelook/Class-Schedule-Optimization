@@ -3,9 +3,6 @@ package classSchedule;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-//hello
-//hiii
-
 public class scheduleGraph {
     String [] possibleColors = new String[50];
     HashMap<Character,String> colors = new HashMap<>();
